@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "simple-travel-site",
+			"path": "."
+		},
+		{
+			"name": "travel-site",
+			"path": "../../GitHub/travel-site"
+		}
+	],
+	"settings": {}
+}
