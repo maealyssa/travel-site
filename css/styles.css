@@ -1,0 +1,47 @@
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: green;
+}
+
+header, nav{
+    text-align: center;
+    font-size: larger;
+}
+
+img {
+    height: auto;
+    padding: 5%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+nav a{
+    display: flexbox;
+    padding: 15px;
+    padding-top: 20px;
+}
+
+.city-desc {
+    display: block;
+    max-width: 70%;
+    padding: 5% 20% 5% 20%;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+  }
+
+.contact {
+    padding: 5% 35%;
+}
+
+.nav{
+    padding: 10px;
+}
